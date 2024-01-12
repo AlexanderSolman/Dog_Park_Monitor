@@ -35,4 +35,4 @@ The ESP32, equipped with IR sensors, continuously monitors the entrance of the d
 There is in it's current state a lack of security, due to the server setup. Cloud-based solution could streamline the connections and security and maintain that while scaling.
 
 ## Result for end-user
-
+![](Images/Webpage.png)
